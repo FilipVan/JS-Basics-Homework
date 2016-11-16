@@ -12,6 +12,7 @@ function levelUp(ucXP, nLXP, ptsXP){
     if(ucXP + ptsXP > nLXP ){
         return "Level up"
     } else {
+        //Comment
         return "You didn't level up"
     }
 }
